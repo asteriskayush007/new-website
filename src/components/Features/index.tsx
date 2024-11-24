@@ -9,8 +9,8 @@ const Features = () => {
       <div className="container">
         <SectionTitle
           subtitle="Features"
-          title="Our Main Sponsers"
-          paragraph="There are Many Sponsers For Encouraging Our Potential To Embark the World."
+          title="Our Partners"
+          paragraph="There are Some Partners For Encouraging Our Potential To Embark the World."
         />
 
         <div className="-mx-10 flex flex-wrap lg:mt-20">
